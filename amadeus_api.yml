@@ -1,6 +1,6 @@
 api_key: <YOUR AMADEUS KEY>
 api_secret: <YOUR AMADEUS SECRET>
-host: <YOUR NEON HOST>
-password: <YOUR NEON PWORD>
-username: <YOUR NEON USERNAME>
+host: ep-winter-dream-a5vym5vo.us-east-2.aws.neon.tech
+password: PGPASSWORD=KD0QZCrRY2jJ
+username: flights_data
 database: flights_data
